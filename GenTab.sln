@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenTab", "GenTab\GenTab.csproj", "{713499AB-FFD4-4305-B452-3A109637E71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713499AB-FFD4-4305-B452-3A109637E71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713499AB-FFD4-4305-B452-3A109637E71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713499AB-FFD4-4305-B452-3A109637E71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713499AB-FFD4-4305-B452-3A109637E71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E794A67-0F0F-4406-B189-783314DDFB15}
+	EndGlobalSection
+EndGlobal
